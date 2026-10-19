@@ -21,7 +21,7 @@ A full technical write-up of our run at **DEADFACE CTF 2026** (Cyber Hacktics) �
 | | |
 |---|---|
 | **Team** | Double Espresso |
-| **Players** | [Youssef Tarhouni](https://github.com/youssef-tarhouni) · Aymen Ladhari |
+| **Players** | [Youssef Tarhouni](https://github.com/youssef-tarhouni) · [Aymen Ladhari](https://github.com/ladharimohamedaymen) |
 | **Event** | DEADFACE CTF 2026 (Cyber Hacktics) — 17–19 Oct 2026 |
 | **Platform** | [ctf.deadface.io](https://ctf.deadface.io) |
 | **Result** | 11,617 pts · 95/96 solved · 35th place |
