@@ -1,8 +1,8 @@
 <div align="center">
 
-![DEADFACE CTF 2026 logo](images/logo_deadface_ctf_2026.png)
-
 # DEADFACE CTF 2026 — Team "Double Espresso"
+
+<img src="images/logo_deadface_ctf_2026.png" alt="DEADFACE CTF 2026 logo" width="180">
 
 **95 / 96 challenges solved · 11,617 points · 35th place**
 
