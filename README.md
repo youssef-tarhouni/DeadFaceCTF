@@ -4,7 +4,7 @@
 
 <img src="images/logo_deadface_ctf_2026.png" alt="DEADFACE CTF 2026 logo" width="180">
 
-**95 / 96 challenges solved · 11,617 points · 35th place**
+**95 / 96 challenges solved · 11,617 points · 11th place**
 
 [📖 Read the full write-up](DEADFACE_CTF_2026_MASTER_Writeup_FINAL.md)
 
@@ -24,7 +24,7 @@ A full technical write-up of our run at **DEADFACE CTF 2026** (Cyber Hacktics) �
 | **Players** | [Youssef Tarhouni](https://github.com/youssef-tarhouni) · [Aymen Ladhari](https://github.com/ladharimohamedaymen) |
 | **Event** | DEADFACE CTF 2026 (Cyber Hacktics) — 17–19 Oct 2026 |
 | **Platform** | [ctf.deadface.io](https://ctf.deadface.io) |
-| **Result** | 11,617 pts · 95/96 solved · 35th place |
+| **Result** | 11,617 pts · 95/96 solved · 11th place |
 
 ## What's inside
 
